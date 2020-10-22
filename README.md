@@ -1,6 +1,8 @@
 # XCode-themes
 
-![alfredo_hdz.png](alfredo_hdz.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlfredoHernandez/AlfredoHernandez/main/alfredo_hdz.png" />
+</p>
 
 ## How to install?
 

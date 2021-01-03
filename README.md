@@ -1,9 +1,5 @@
 # XCode-themes
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlfredoHernandez/AlfredoHernandez/main/alfredo_hdz.png" />
-</p>
-
 ## Installation
 
 Each method requires you to **close any running instance of Xcode** as Xcode loads all installed custom themes when it starts.
